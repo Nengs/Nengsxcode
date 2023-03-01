@@ -1,4 +1,4 @@
-              ![giphy](https://user-images.githubusercontent.com/93233472/222144087-d58dab49-f49a-4306-ae6d-af7624833663.gif)
+![giphy](https://user-images.githubusercontent.com/93233472/222144087-d58dab49-f49a-4306-ae6d-af7624833663.gif)
 
 # 💫 About Me:
 I'm a very passionate tech enthusiast and I follow-up the trends on the latest within the techosphere.<br><br>currently, I'm enrolled into the ALX_SE cohort13 program.
